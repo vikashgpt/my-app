@@ -1,0 +1,42 @@
+.hero-section-main{
+    background-image: url(../images/campus-life-banner.jpg);
+    min-height: 70vh;
+}
+h2.heading {
+    margin-bottom: 40px;
+    font-weight: 700;
+    color: var(--secondary_color);
+}
+.course-card{
+    height: 100%;
+}
+.course-card .bottom{
+    padding: 20px;
+}
+.shadow{
+    box-shadow: 0 0 15px 1px rgb(0 0 0 / 15%);
+}
+
+.course-card a.cta_button {
+display: block;
+}
+.course-benifits{
+    border-left: 5px solid var(--primary_color);
+    border-radius: 5px;
+    height: 100%;
+}
+.circle-img{
+    margin: auto;
+    display: block;
+    /* border-radius: 50%; */
+    width: 60px;
+    height: 60px;
+}
+
+.inner-banner{
+    background-image: url(../images/page-title-bg.webp);
+    height:400px;
+}
+.inner-banner h1{
+    color: var(--white_color);
+}
